@@ -11,7 +11,7 @@
   background-color: transparent !important;
   color: black;
   margin-top: 3px;
-  -moz-binding: url("chrome://browser/content/customizableui/toolbar.xml#toolbar-drag");
+  -moz-binding: url("chrome://global/content/bindings/toolbar.xml#toolbar-drag");
   border-style: none !important;
 }
 
