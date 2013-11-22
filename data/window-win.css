@@ -1,0 +1,6 @@
+.titlebar-placeholder[type="caption-buttons"] {
+  margin-left: 4px;
+}
+#AeroTitleSpacer {
+  -moz-box-flex: 999;
+}

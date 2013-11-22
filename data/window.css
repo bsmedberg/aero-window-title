@@ -3,10 +3,6 @@
   margin-top: 0px !important;
 }
 
-.titlebar-placeholder[type="caption-buttons"] {
-  margin-left: 4px;
-}
-
 #AeroTitleToolbar {
   background-color: transparent !important;
   color: black;

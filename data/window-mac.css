@@ -1,0 +1,14 @@
+.titlebar-placeholder[type="caption-buttons"] {
+  margin-right: 4px;
+}
+.titlebar-placeholder[type="fullscreen-button"] {
+  margin-left: 4px;
+}
+#AeroTitleDescription {
+  padding-top: 3px;
+  text-align: center;
+  font-size: 12px;
+}
+#titlebar {
+  padding-top: 2px !important;
+}
