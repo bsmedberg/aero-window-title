@@ -4,7 +4,8 @@
   "id": "aero-window-title@benjamin.smedbergs.us",
   "license": "Apache 2.0",
   "author": "Benjamin Smedberg <benjamin@smedbergs.us>",
-  "version": "2.0a1",
+  "version": "2.0",
+  "minVersion": "29.0a1",
   "description": "Make the Firefox window title bar larger and show the title of the current page in it.",
   "permissions": {
     "private-browsing": true

@@ -1,1 +1,1 @@
-An add-on which makes the Firefox menu be an Firefox icon instead of grey bars. Add a little pizazz back into your Firefox!
+An add-on which make the Firefox window title show up again on Windows.
